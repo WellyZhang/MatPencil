@@ -21,7 +21,7 @@ Original image:
 
 Colorful and grayscale:
 
-<center>![alt text](https://github.com/WellyZhang/MatPencil/blob/master/outputs/demo.JPG) ![alt text](https://github.com/wellyzhangc/MatPencil/blob/master/outputs/demo2.JPG)</center>
+<center>![alt text](https://github.com/WellyZhang/MatPencil/blob/master/outputs/demo.jpg) ![alt text](https://github.com/WellyZhang/MatPencil/blob/master/outputs/demo2.jpg)</center>
 
 
 
