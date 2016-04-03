@@ -17,11 +17,11 @@ For detailed explanation of the parameters, please refer to the comments in the 
 
 Original image:
 
-<center>![alt text](https://github.com/WellyZhang/MatPencil/tree/master/inputs/demo.JPG)</center>
+<center>![alt text](https://github.com/WellyZhang/MatPencil/blob/master/inputs/demo.JPG)</center>
 
 Colorful and grayscale:
 
-<center>![alt text](https://github.com/WellyZhang/MatPencil/tree/master/outputs/demo.JPG) ![alt text](https://github.com/wellyzhangc/MatPencil/tree/master/outputs/demo2.JPG)</center>
+<center>![alt text](https://github.com/WellyZhang/MatPencil/blob/master/outputs/demo.JPG) ![alt text](https://github.com/wellyzhangc/MatPencil/blob/master/outputs/demo2.JPG)</center>
 
 
 
