@@ -1,6 +1,3 @@
-# MatPencil
-A Matlab Implementation of Pencil Drawing
-
 # Introduction
 
 This Matlab function implements the algorithm proposed by Cewu Lu et al in [1], which generates the grayscale and colorful pencil sketches of an image. You're highly encourage to play with the parameters in the function, as demonstrated in the demo.m.
@@ -20,11 +17,11 @@ For detailed explanation of the parameters, please refer to the comments in the 
 
 Original image:
 
-<center>![alt text](https://github.com/wellyzhangc/MatPencil/blob/master/inputs/demo.jpg)</center>
+<center>![alt text](https://github.com/wellyzhangc/MatPencil/tree/master/inputs/demo.jpg)</center>
 
 Colorful and grayscale:
 
-<center>![alt text](https://github.com/wellyzhangc/MatPencil/blob/master/outputs/demo.jpg) ![alt text](https://github.com/wellyzhangc/MatPencil/blob/master/outputs/demo2.jpg)</center>
+<center>![alt text](https://github.com/wellyzhangc/MatPencil/tree/master/outputs/demo.jpg) ![alt text](https://github.com/wellyzhangc/MatPencil/tree/master/outputs/demo2.jpg)</center>
 
 
 
