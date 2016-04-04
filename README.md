@@ -1,4 +1,6 @@
-# Introduction
+# MatPencil
+
+## Introduction
 
 This Matlab function implements the algorithm proposed by Cewu Lu et al in [1], which generates the grayscale and colorful pencil sketches of an image. You're highly encouraged to play with the parameters in the function, as demonstrated in the demo.m.
 
@@ -9,14 +11,14 @@ To generate the sketches:
 I = MatPencil(img, ks, width, dirNum, gammaS, gammaI, theta, pencil_stroke, sm_kr, group_num, avg_ks);
 ```
 
-# Requirement
+## Requirement
 * Image Processing Toolbox
 
-# Parameters
+## Parameters
 
 For detailed explanation of the parameters, please refer to the comments in the .m file
 
-# Examples
+## Examples
 
 Original image:
 
@@ -26,7 +28,7 @@ Colorful and grayscale:
 
 <center>![colorful](https://github.com/WellyZhang/MatPencil/blob/master/outputs/demo.jpg) ![grayscale](https://github.com/WellyZhang/MatPencil/blob/master/outputs/demo2.jpg)</center>
 
-# Reference
+## Reference
 
 [1] Cewu Lu, Li Xu, Jiaya Jia. Combining Sketch and Tone for Pencil Drawing Production. In Proceedings of the Symposium on Non-Photorealistic Animation and Rendering. Eurographics Association, 2012: 65-73.
 
