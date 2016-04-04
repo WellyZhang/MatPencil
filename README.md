@@ -9,6 +9,9 @@ To generate the sketches:
 I = MatPencil(img, ks, width, dirNum, gammaS, gammaI, theta, pencil_stroke, sm_kr, group_num, avg_ks);
 ```
 
+# Requirement
+* Image Processing Toolbox
+
 # Parameters
 
 For detailed explanation of the parameters, please refer to the comments in the .m file
